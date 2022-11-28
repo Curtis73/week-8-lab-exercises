@@ -8,3 +8,11 @@ POST http://localhost:3000/article
     "breed": "Scottish Terrier",
     "location": "Lisco, Alabama"
 }
+
+POST http://localhost:3000/article
+{
+  "title": "POV",
+  "subHeading": "you are curtis",
+  "content": "pov you are curtis >>>>>",
+  "headerImage": "https://mixmag.net/assets/uploads/images/_columns2/shrekrave2.png"
+}
